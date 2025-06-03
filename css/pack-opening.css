@@ -1,0 +1,394 @@
+.Sobre-Y-Cartas{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.sobre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.351));
+    transition: 0.4s all;
+    padding-left: 5%;
+    padding-top: 30px;
+    animation: SalidaDelSobre 2s ease-out forwards;
+}
+.sobre:hover{
+    filter: drop-shadow(0px 0px 15px rgba(0, 0, 0, 0.79));
+}
+.tapa-del-sobre, .base-del-sobre{
+    width: 420px;
+    height: 20px;
+    background-color: gray;
+    background-image: url("https://img.freepik.com/fotos-premium/bolsa-plastico-o-polietileno-textura-blanca-arrugada-plastico-fondo-blanco-macro_553949-4054.jpg?semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+.tapa-del-sobre{
+    animation: QuitarTapa 1s ease-out forwards;
+    animation-delay: 2s;
+    transform-origin: left center;
+}
+@keyframes QuitarTapa{
+    50%{
+        transform: translateY(-500%) rotate(-10deg);
+    }
+    90%{
+        opacity: 1;
+    }
+    100%{
+        transform: translateX(-800%) translateY(-500%) rotate(-180deg);
+        opacity: 0; 
+    }
+}
+@keyframes SalidaDelSobre{
+    0% {
+        transform: translateX(100%) rotate(0deg);
+    }
+    5% {
+        transform: translateX(100%) rotate(3deg);
+    }
+    10% {
+        transform: scale(1.05) translateX(95%) rotate(-3deg);
+    }
+    15% {
+        transform: translateX(100%) rotate(2deg);
+    }
+    20% {
+        transform: scale(1.1) translateX(90%) rotate(0deg);
+    }
+    90%{
+        transform: scale(1) translateX(0%);
+    }
+    100%{
+        transform: scale(0.5);
+    }
+}
+
+.color-del-sobre{
+    width: 100%;
+    height: 100%;
+}
+.gris{
+    background-color: rgba(128, 128, 128, 0.599);
+}
+.rojo{
+    background-color: rgba(255, 0, 0, 0.599);
+}
+.dorado{
+    background-color: rgba(255, 213, 0, 0.599);
+}
+.azul{
+    background-color: rgba(30, 0, 255, 0.599);
+}
+.portada-del-sobre{
+    width: 390px;
+    height: 600px;
+    background-color: rgb(121, 38, 38);
+    
+}
+.portada_sobre{
+    width: 100%;
+    height: 100%;
+}
+.clic_sobre{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    width: 100px;
+    opacity: 0;
+    animation: aparecer_clic 1.5s ease-out infinite;
+    animation-delay: 2s;
+    transform-origin: center;
+}
+@keyframes aparecer_clic {
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+/*inicio cartas*/
+.CartaCompleta{
+    width: 320px;
+    height: 450px;
+    margin-left: 30px;
+    margin-top: 30px;
+    box-shadow: 0px 10px 8px 0px rgba(0, 0, 0, 0.27);
+    background-color: rgba(250, 235, 215, 0);
+    font-family: 'Geologica';
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    position: relative;
+    transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    display: none;
+}
+.plantilla{
+    display: none;
+}
+.DisenoCarta{
+    background-color: rgb(10, 18, 94);
+    width: 92%;
+    height: 92%;
+    border-radius: 20px;
+    background-image: url(/recursos/img/oro.webp);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+.CartaLuchadorFondo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    background-image: url(/recursos/img/rey_misterio_card.png);
+    background-size: 150%;
+    background-position: 60% 0%; 
+}
+.FiltroCarta{
+    background-color: #b67d40d0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+}
+.DivisionColor{
+    position: absolute;
+    top: 0;
+    right: 2%;
+    width: 100px;
+}
+.DivisionColor img{
+    width: 100%;
+}
+.PoderCarta{
+    position: absolute;
+    top: 5px;
+    left: 20px;
+    background-color: rgba(255, 0, 0, 0);
+    gap: 0px;
+}
+.PoderCarta h5{
+    font-size: 16px;
+    margin: 0;
+    line-height: 1;
+}
+.PoderCarta h3{
+    font-size: 55px;
+    margin: -12px;
+}
+.CartaLuchadorFrente{
+    position: absolute;
+    top: 100px;
+    right: -1.5%;
+    border-radius: 20px;
+    height: 230px;
+}
+.CartaLuchadorFrente img{
+    height: 100%;
+}
+.NombreLuchadorCarta{
+    position: absolute;
+    top: 275px;
+    left: 2%;
+    transform: scaleY(1.2);
+}
+.PrimerNombreLuchadorCarta{
+    font-size: 25px;
+    font-weight: bold;
+}
+.SegundoNombreLuchadorCarta{
+    font-weight: bold;
+    color: white;
+    margin-top: -12px;
+    font-size: clamp(22px, 5vw, 42px);
+    max-width: 250px;
+    display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.DescripcionCarta{
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    background-color: #030303;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.TextoDescripcionCarta{
+    color: white;
+    font-family: 'Lexend Exa';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+/*fincarta*/
+
+
+.contenedor-cartas {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    overflow: visible;
+    margin-left: -60px;
+}
+
+.CartaCompleta {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: white;
+    transform: scale(0.7) rotate(-5deg) translateY(0);
+    z-index: 0;
+    transition: transform 0.3s ease, z-index 0s;
+    position: absolute;
+}
+
+.CartaCompleta.mostrar {
+    opacity: 1;
+    transform: scale(1) rotate(0deg);
+}
+.CartaCompleta.mostrar:hover {
+    transform:translateY(-30px);
+    box-shadow: 0px 20px 16px 0px rgba(0, 0, 0, 0.466);
+    z-index: 100;
+}
+
+#background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 1;
+    background-image: url(/recursos/videos/6LI.gif);
+    background-size: cover;
+    animation: solobajoOpacidad 2s ease-out forwards;
+}
+.Salir{
+    opacity: 0;
+    margin-right: 50px;
+    transition: all 1s ease;
+}
+.filtro{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+@keyframes solobajoOpacidad {
+    90%{
+        opacity: 0.9;
+    }
+    100%{
+        opacity: 0.1;
+    }
+}
+.AlertaCompras{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(240, 240, 240);
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+.AlertaComprasInterior{
+    width: 100%;
+    height: 100%;
+    padding: 300px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.AlertaCompras .AlertaComprasInterior h4{
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    z-index: 100;
+    margin-top: 200px;
+}
+.bajarVolver{
+    top: 100px;
+}
+.container{
+    position: absolute;
+    border-radius: 12px;
+    right: 100px;
+    left: 100px;
+    top: 100px;
+    bottom: 100px;
+    overflow: hidden;
+}
+.container:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    mix-blend-mode: color;
+}
+.container .textbx{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    padding: 50px;
+    mix-blend-mode: screen;
+}
+.container .textbx h1{
+    font-size: 200px;
+    line-height: 180px;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+    padding-top: 100px;
+}
+.container .textbx h1 span{
+    font-size: 1.4em;
+    padding-top: 30px;
+    
+}
+.container video{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/*CODIGO TOMADO DE ANIMATED BACKGROUNDS.*/
+
