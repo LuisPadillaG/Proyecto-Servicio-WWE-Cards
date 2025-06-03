@@ -1,0 +1,12 @@
+{
+    "id": 26,
+    "nombres": {
+        "primer_nombre": "Ludwig",
+        "segundo_nombre": "Kaiser"
+    },
+    "rango":"media cartelera",
+    "poder": 76,
+    "descripcion": "Luchador aleman orgulloso, respeta al ring a toda costa",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/ludwig.png"
+}

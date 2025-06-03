@@ -1,0 +1,12 @@
+{
+    "id": 39,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "Edge"
+    },
+    "rango":"superestrella",
+    "poder": 89,
+    "descripcion": "La superestrella categoria R, el maximo oportunista",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/edge-2.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 7,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "Guilia"
+    },
+    "rango":"en ascenso",
+    "poder": 73,
+    "descripcion": "La hermosa locura, y rapida icono de NXT",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/guilia.png"
+}

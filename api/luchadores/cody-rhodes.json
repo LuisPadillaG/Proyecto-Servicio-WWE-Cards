@@ -1,0 +1,12 @@
+{
+    "id": 38,
+    "nombres": {
+        "primer_nombre": "Cody",
+        "segundo_nombre": "Rhodes"
+    },
+    "rango":"superestrella",
+    "poder": 95,
+    "descripcion": "La pesadilla americana, el hombre que acabara su historia sin importar que ",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/cody.png"
+}

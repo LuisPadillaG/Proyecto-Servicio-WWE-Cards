@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "nombres": {
+        "primer_nombre": "Made",
+        "segundo_nombre": "American"
+    },
+    "rango":"en ascenso",
+    "poder": 65,
+    "descripcion": "Increibles habilidades en la lucha tecnica",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/american-made.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "nombres": {
+        "primer_nombre": "A-Town-Down",
+        "segundo_nombre": "Under"
+    },
+    "rango":"en ascenso",
+    "poder": 68,
+    "descripcion": "Equipo con mayor proyeccion",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/a-town-down.png"
+}

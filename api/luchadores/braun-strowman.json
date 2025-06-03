@@ -1,0 +1,12 @@
+{
+    "id": 17,
+    "nombres": {
+        "primer_nombre": "Braun",
+        "segundo_nombre": "Strowman"
+    },
+    "rango":"media cartelera",
+    "poder": 78,
+    "descripcion": "El monstruo entre hombres.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/braun.png"
+}

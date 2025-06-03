@@ -1,0 +1,12 @@
+{
+    "id": 6,
+    "nombres": {
+        "primer_nombre": "Grande",
+        "segundo_nombre": "Americano"
+    },
+    "rango":"en ascenso",
+    "poder": 74,
+    "descripcion": "Leyenda historica de Mexico y el 'Golfo de America'",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/grande-americano.png"
+}

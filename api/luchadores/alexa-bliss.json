@@ -1,0 +1,12 @@
+{
+    "id": 20,
+    "nombres": {
+        "primer_nombre": "Alexa",
+        "segundo_nombre": "Bliss"
+    },
+    "rango":"media cartelera",
+    "poder": 82,
+    "descripcion": "Luchadora historica que vuelve por su 7vo campeonato mundial.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/bliss.png"
+}

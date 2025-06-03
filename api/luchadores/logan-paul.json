@@ -1,0 +1,12 @@
+{
+    "id": 29,
+    "nombres": {
+        "primer_nombre": "Logal",
+        "segundo_nombre": "Paul"
+    },
+    "rango":"media cartelera",
+    "poder": 85,
+    "descripcion": "Influencer, independiente y ahora luchador.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/logan-paul.png"
+}

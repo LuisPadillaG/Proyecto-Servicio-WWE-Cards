@@ -1,0 +1,12 @@
+{
+    "id": 48,
+    "nombres": {
+        "primer_nombre": "Rey",
+        "segundo_nombre": "Mysterio"
+    },
+    "rango":"superestrella",
+    "poder": 88,
+    "descripcion": "El maestro del 619",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/rey_misterio_card.png"
+}

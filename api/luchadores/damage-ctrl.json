@@ -1,0 +1,12 @@
+{
+    "id": 19,
+    "nombres": {
+        "primer_nombre": "Damage",
+        "segundo_nombre": "Ctrl"
+    },
+    "rango":"media cartelera",
+    "poder": 85,
+    "descripcion": "El equipo mas exitoso de la divison femenina.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/damage-ctrl-3.png"
+}

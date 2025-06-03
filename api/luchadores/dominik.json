@@ -1,0 +1,13 @@
+
+{
+    "id": 23,
+    "nombres": {
+        "primer_nombre": "Dominik",
+        "segundo_nombre": "Mysterio"
+    },
+    "rango":"media cartelera",
+    "poder": 78,
+    "descripcion": "El sucio Dom, siempre sacara una artimaña para ganar",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/dominik.png"
+}

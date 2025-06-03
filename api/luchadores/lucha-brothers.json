@@ -1,0 +1,12 @@
+{
+    "id": 30,
+    "nombres": {
+        "primer_nombre": "Lucha",
+        "segundo_nombre": "Brothers"
+    },
+    "rango":"media cartelera",
+    "poder": 85,
+    "descripcion": "De ecatepec para el mundo. Cero miedo y animo.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/lucha.png"
+}

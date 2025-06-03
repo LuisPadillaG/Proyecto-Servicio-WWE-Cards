@@ -1,0 +1,12 @@
+{
+    "id": 9,
+    "nombres": {
+        "primer_nombre": "Mia",
+        "segundo_nombre": "Michin"
+    },
+    "rango":"en ascenso",
+    "poder": 67,
+    "descripcion": "Gran luchadora street",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/michin.png"
+}

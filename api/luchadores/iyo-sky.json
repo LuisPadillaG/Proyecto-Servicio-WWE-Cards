@@ -1,0 +1,12 @@
+{
+    "id": 41,
+    "nombres": {
+        "primer_nombre": "Iyo",
+        "segundo_nombre": "Sky"
+    },
+    "rango":"superestrella",
+    "poder": 88,
+    "descripcion": "De Tokyo, Japon. La genio de los cielos.",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/iyo-sky.png"
+}

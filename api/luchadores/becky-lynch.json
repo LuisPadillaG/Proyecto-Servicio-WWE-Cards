@@ -1,0 +1,12 @@
+{
+    "id": 35,
+    "nombres": {
+        "primer_nombre": "Becky",
+        "segundo_nombre": "Lynch"
+    },
+    "rango":"superestrella",
+    "poder": 93,
+    "descripcion": "El hombre esta aqui",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/becky_lynch.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 58,
+    "nombres": {
+        "primer_nombre": "Shawn",
+        "segundo_nombre": "Michaels"
+    },
+    "rango":"leyenda",
+    "poder": 98,
+    "descripcion": "El chico rompecorazones, Mr. Wrestlemania. Edicion 1995.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/shawn-michaels.png"
+}

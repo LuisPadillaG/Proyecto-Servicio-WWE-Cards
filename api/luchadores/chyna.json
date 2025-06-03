@@ -1,0 +1,12 @@
+{
+    "id": 54,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "Chyna"
+    },
+    "rango":"leyenda",
+    "poder": 97,
+    "descripcion": "La mas fuerte, y unica mujer en ganar un titulo masculino.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/chyna_2.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 59,
+    "nombres": {
+        "primer_nombre": "The",
+        "segundo_nombre": "Rock"
+    },
+    "rango":"leyenda",
+    "poder": 97,
+    "descripcion": "Puedes sentir, lo que la roca esta cocinando.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/the-rock.png"
+}

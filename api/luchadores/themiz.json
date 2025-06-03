@@ -1,0 +1,12 @@
+{
+    "id": 14,
+    "nombres": {
+        "primer_nombre": "The",
+        "segundo_nombre": "Miz"
+    },
+    "rango":"en ascenso",
+    "poder": 74,
+    "descripcion": "2 veces grand slam, el es ASOMBROSO.",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/themiz.png"
+}

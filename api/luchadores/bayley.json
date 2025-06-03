@@ -1,0 +1,12 @@
+{
+    "id": 16,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "Bayley"
+    },
+    "rango":"media cartelera",
+    "poder": 84,
+    "descripcion": "La modelo a seguir, fue la primera grand slam femenina.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/bayley.png"
+}

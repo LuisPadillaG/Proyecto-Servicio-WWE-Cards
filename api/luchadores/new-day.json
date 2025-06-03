@@ -1,0 +1,12 @@
+{
+    "id": 32,
+    "nombres": {
+        "primer_nombre": "New",
+        "segundo_nombre": "Day"
+    },
+    "rango":"media cartelera",
+    "poder": 83,
+    "descripcion": "Uno de los equipos mas importantes de la decada pasada.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/new-day.png"
+}

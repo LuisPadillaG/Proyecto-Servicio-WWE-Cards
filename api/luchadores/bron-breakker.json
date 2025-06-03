@@ -1,0 +1,12 @@
+{
+    "id": 18,
+    "nombres": {
+        "primer_nombre": "Bron",
+        "segundo_nombre": "Breakker"
+    },
+    "rango":"media cartelera",
+    "poder": 85,
+    "descripcion": "Edicion version campeon de NXT.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/bron-breakker.png"
+}

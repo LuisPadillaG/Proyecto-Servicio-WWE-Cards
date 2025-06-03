@@ -1,0 +1,12 @@
+{
+    "id": 21,
+    "nombres": {
+        "primer_nombre": "Solo",
+        "segundo_nombre": "Sikoa"
+    },
+    "rango":"media cartelera",
+    "poder": 79,
+    "descripcion": "Tras el fracaso del jefe tribal, Solo busca devolver la gloria a su linaje.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/sikoa.png"
+}

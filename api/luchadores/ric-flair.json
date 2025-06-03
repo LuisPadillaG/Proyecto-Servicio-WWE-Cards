@@ -1,0 +1,12 @@
+{
+    "id": 57,
+    "nombres": {
+        "primer_nombre": "Ric",
+        "segundo_nombre": "Flair"
+    },
+    "rango":"leyenda",
+    "poder": 98,
+    "descripcion": "El chico natural, 16 veces campeon mundial. WHOOO",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/flair.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 12,
+    "nombres": {
+        "primer_nombre": "Sin",
+        "segundo_nombre": "Cara"
+    },
+    "rango":"en ascenso",
+    "poder": 65,
+    "descripcion": "La promesa mas grande del 2011.",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/sin-cara.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 44,
+    "nombres": {
+        "primer_nombre": "Liv",
+        "segundo_nombre": "Morgan"
+    },
+    "rango":"superestrella",
+    "poder": 90,
+    "descripcion": "Si no te gusta, llora por ello",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/liv.png"
+}

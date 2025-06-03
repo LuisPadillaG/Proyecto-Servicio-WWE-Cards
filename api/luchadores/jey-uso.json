@@ -1,0 +1,12 @@
+{
+    "id": 43,
+    "nombres": {
+        "primer_nombre": "Jey",
+        "segundo_nombre": "Uso"
+    },
+    "rango":"superestrella",
+    "poder": 87,
+    "descripcion": "Jey Uso esta ahora en tu mazo. Yeet",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/jey-uso.png"
+}

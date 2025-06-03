@@ -1,0 +1,12 @@
+{
+    "id": 61,
+    "nombres": {
+        "primer_nombre": "Trish",
+        "segundo_nombre": "Strattus"
+    },
+    "rango":"leyenda",
+    "poder": 97,
+    "descripcion": "Esta mujer abrio el camino a toda la division femenina actual.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/trish.png"
+}

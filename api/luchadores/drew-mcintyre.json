@@ -1,0 +1,12 @@
+{
+    "id": 46,
+    "nombres": {
+        "primer_nombre": "Drew",
+        "segundo_nombre": "McIntyre"
+    },
+    "rango":"superestrella",
+    "poder": 91,
+    "descripcion": "El psicopata escoces, cargo la empresa en tiempos de crisis y merece estar en la cima",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/drew.png"
+}

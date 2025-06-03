@@ -1,0 +1,12 @@
+{
+    "id": 60,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "HHH"
+    },
+    "rango":"leyenda",
+    "poder": 97,
+    "descripcion": "Rey de reyes. El asesino cerebral. El juego siempre tendra un plan B.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/triple-h.png"
+}

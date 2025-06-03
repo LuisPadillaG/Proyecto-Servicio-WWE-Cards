@@ -1,0 +1,12 @@
+{
+    "id": 53,
+    "nombres": {
+        "primer_nombre": "Big",
+        "segundo_nombre": "Show"
+    },
+    "rango":"leyenda",
+    "poder": 95,
+    "descripcion": "El historico Big Show, campeon mundial en ECW, WCW y WWE",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/big-show.png"
+}

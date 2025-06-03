@@ -1,0 +1,13 @@
+
+{
+    "id": 25,
+    "nombres": {
+        "primer_nombre": "Jacob",
+        "segundo_nombre": "Fatu"
+    },
+    "rango":"media cartelera",
+    "poder": 84,
+    "descripcion": "El hombre lobo samoano, desde su llegada a destruido a todo el roster de WWE",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/jacob-fatu.png"
+}

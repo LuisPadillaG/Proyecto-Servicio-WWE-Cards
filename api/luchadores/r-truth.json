@@ -1,0 +1,12 @@
+{
+    "id": 11,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "R-Truth"
+    },
+    "rango":"en ascenso",
+    "poder": 68,
+    "descripcion": "Un dia sera como su idolo de la infancia: John Cena. Mientras tanto juega junto a Lil Jimmy",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/r-truth_2.png"
+}

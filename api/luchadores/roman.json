@@ -1,0 +1,12 @@
+{
+    "id": 50,
+    "nombres": {
+        "primer_nombre": "Roman",
+        "segundo_nombre": "Reigns"
+    },
+    "rango":"superestrella",
+    "poder": 95,
+    "descripcion": "La cabeza de la mesa, bienvenido a la isla de la relevancia",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/roman1.png"
+}

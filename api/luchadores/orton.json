@@ -1,0 +1,12 @@
+{
+    "id": 47,
+    "nombres": {
+        "primer_nombre": "Randy",
+        "segundo_nombre": "Orton"
+    },
+    "rango":"superestrella",
+    "poder": 93,
+    "descripcion": "La vivora esta lista para seguir las voces en su cabeza",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/randy_2.png"
+}

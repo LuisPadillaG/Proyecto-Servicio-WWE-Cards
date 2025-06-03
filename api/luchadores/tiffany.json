@@ -1,0 +1,12 @@
+{
+    "id": 52,
+    "nombres": {
+        "primer_nombre": "Tiffany",
+        "segundo_nombre": "Stratton"
+    },
+    "rango":"superestrella",
+    "poder": 90,
+    "descripcion": "A su corta edad ha paralizado a la industria, ganadora del MITB en 2024. Es la hora de Tiffy",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/tiffany.png"
+}

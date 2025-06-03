@@ -1,0 +1,12 @@
+{
+    "id": 22,
+    "nombres": {
+        "primer_nombre": "",
+        "segundo_nombre": "Rusev"
+    },
+    "rango":"media cartelera",
+    "poder": 76,
+    "descripcion": "Feliz dia de Rusev.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/rusev.png"
+}

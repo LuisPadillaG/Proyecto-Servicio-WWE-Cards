@@ -1,0 +1,12 @@
+{
+    "id": 33,
+    "nombres": {
+        "primer_nombre": "Street",
+        "segundo_nombre": "Profits"
+    },
+    "rango":"media cartelera",
+    "poder": 79,
+    "descripcion": "Queremos humo.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/street%20profits.png"
+}

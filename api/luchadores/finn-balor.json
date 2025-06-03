@@ -1,0 +1,13 @@
+
+{
+    "id": 24,
+    "nombres": {
+        "primer_nombre": "Finn",
+        "segundo_nombre": "Balor"
+    },
+    "rango":"media cartelera",
+    "poder": 79,
+    "descripcion": "El principe, campeon inaugural del titulo universal en 2016",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/finn-balor.png"
+}

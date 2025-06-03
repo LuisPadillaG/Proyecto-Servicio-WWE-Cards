@@ -1,0 +1,12 @@
+{
+    "id": 27,
+    "nombres": {
+        "primer_nombre": "Kelly",
+        "segundo_nombre": "Kelly"
+    },
+    "rango":"media cartelera",
+    "poder": 76,
+    "descripcion": "Amada luchadora de WWE entre 2007 a 2011",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/kelly.png"
+}

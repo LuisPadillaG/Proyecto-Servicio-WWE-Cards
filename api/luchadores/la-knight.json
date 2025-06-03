@@ -1,0 +1,12 @@
+{
+    "id": 28,
+    "nombres": {
+        "primer_nombre": "L.A.",
+        "segundo_nombre": "Knight"
+    },
+    "rango":"media cartelera",
+    "poder": 80,
+    "descripcion": "Aparecio en Brooklyn 99. YEAH. NANA",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/la-knight.png"
+}

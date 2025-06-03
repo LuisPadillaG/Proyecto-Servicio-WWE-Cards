@@ -1,0 +1,12 @@
+{
+    "id": 45,
+    "nombres": {
+        "primer_nombre": "CM",
+        "segundo_nombre": "Punk"
+    },
+    "rango":"superestrella",
+    "poder": 94,
+    "descripcion": "La voz de los que no tienen voz, el chicago made: CM PUNK",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/punk.png"
+}

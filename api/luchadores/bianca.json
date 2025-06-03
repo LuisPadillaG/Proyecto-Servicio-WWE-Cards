@@ -1,0 +1,12 @@
+{
+    "id": 36,
+    "nombres": {
+        "primer_nombre": "Bianca",
+        "segundo_nombre": "Belair"
+    },
+    "rango":"superestrella",
+    "poder": 92,
+    "descripcion": "La EST, con el reinado femenino mas duradero de la era moderna",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/bianca.webp"
+}

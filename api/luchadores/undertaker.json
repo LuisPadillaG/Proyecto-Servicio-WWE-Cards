@@ -1,0 +1,12 @@
+{
+    "id": 62,
+    "nombres": {
+        "primer_nombre": "The",
+        "segundo_nombre": "Undertaker"
+    },
+    "rango":"leyenda",
+    "poder": 99,
+    "descripcion": "El hombre muerto es posiblemente el luchador mas iconico de este deporte.",
+    "precio": 25,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/the_undertaker.png"
+}

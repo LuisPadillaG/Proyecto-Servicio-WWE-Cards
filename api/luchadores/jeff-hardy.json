@@ -1,0 +1,13 @@
+
+{
+    "id": 42,
+    "nombres": {
+        "primer_nombre": "Jeff",
+        "segundo_nombre": "Hardy"
+    },
+    "rango":"superestrella",
+    "poder": 86,
+    "descripcion": "El enigma carismatico, actualmente parte de TNA",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/jeff-hardy.png"
+}

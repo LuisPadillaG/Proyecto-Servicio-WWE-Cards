@@ -1,0 +1,12 @@
+{
+    "id": 15,
+    "nombres": {
+        "primer_nombre": "AJ",
+        "segundo_nombre": "Styles"
+    },
+    "rango":"media cartelera",
+    "poder": 82,
+    "descripcion": "'SmackDown, la casa que AJ Styles construyó', ese es el fenomenal.",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/aj.png"
+}

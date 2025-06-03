@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "nombres": {
+        "primer_nombre": "Carmelo",
+        "segundo_nombre": "Hayes"
+    },
+    "rango":"en ascenso",
+    "poder": 72,
+    "descripcion": "Mello no falla. EL",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/carmelo-hayes.png"
+}

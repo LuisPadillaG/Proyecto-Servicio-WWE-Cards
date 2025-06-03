@@ -1,0 +1,12 @@
+{
+    "id": 37,
+    "nombres": {
+        "primer_nombre": "Charlotte",
+        "segundo_nombre": "Flair"
+    },
+    "rango":"superestrella",
+    "poder": 94,
+    "descripcion": "15 veces campeona mundial, la mas condecorada. La reina",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/charlotte-flair.png"
+}

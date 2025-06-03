@@ -1,0 +1,12 @@
+{
+    "id": 34,
+    "nombres": {
+        "primer_nombre": "Stephanie",
+        "segundo_nombre": "Vaquer"
+    },
+    "rango":"media cartelera",
+    "poder": 82,
+    "descripcion": "La unica mujer en conseguir los dos titulos individuales de NXT",
+    "precio": 10,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/midcard/stephanie.png"
+}

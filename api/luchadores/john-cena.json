@@ -1,0 +1,12 @@
+{
+    "id": 56,
+    "nombres": {
+        "primer_nombre": "John",
+        "segundo_nombre": "Cena"
+    },
+    "rango":"leyenda",
+    "poder": 99,
+    "descripcion": "El mejor de todos los tiempos. No lo puedes ver.",
+    "precio": 25,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/john-cena.png"
+}

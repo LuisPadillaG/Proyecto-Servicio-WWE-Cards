@@ -1,0 +1,12 @@
+{
+    "id": 5,
+    "nombres": {
+        "primer_nombre": "El",
+        "segundo_nombre": "Santo"
+    },
+    "rango":"en ascenso",
+    "poder": 75,
+    "descripcion": "Vencio a dracula y al mal",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/el%20santo.png"
+}

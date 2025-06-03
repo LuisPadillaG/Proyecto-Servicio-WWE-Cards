@@ -1,0 +1,12 @@
+{
+    "id": 51,
+    "nombres": {
+        "primer_nombre": "Seth",
+        "segundo_nombre": "Rollins"
+    },
+    "rango":"superestrella",
+    "poder": 92,
+    "descripcion": "El es un visionario, un revolucionario",
+    "precio": 15,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/seth%20rollings.png"
+}

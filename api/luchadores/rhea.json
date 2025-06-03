@@ -1,0 +1,12 @@
+{
+    "id": 49,
+    "nombres": {
+        "primer_nombre": "Rhea",
+        "segundo_nombre": "Ripley"
+    },
+    "rango":"superestrella",
+    "poder": 95,
+    "descripcion": "Mami siempre esta en la cima",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/superstars/rhea.png"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 55,
+    "nombres": {
+        "primer_nombre": "Eddie",
+        "segundo_nombre": "Guerrero"
+    },
+    "rango":"leyenda",
+    "poder": 96,
+    "descripcion": "Siente la fuerza del Latino Heat vato.",
+    "precio": 20,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/leyendas/eddie.png"
+}

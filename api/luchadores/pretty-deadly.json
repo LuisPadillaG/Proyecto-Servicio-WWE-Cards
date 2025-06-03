@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "nombres": {
+        "primer_nombre": "Pretty",
+        "segundo_nombre": "Deadly"
+    },
+    "rango":"en ascenso",
+    "poder": 66,
+    "descripcion": "YES BOYYYYYY.",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/pretty-deadly.png"
+}

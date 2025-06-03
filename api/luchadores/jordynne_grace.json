@@ -1,0 +1,12 @@
+{
+    "id": 8,
+    "nombres": {
+        "primer_nombre": "Jordynne",
+        "segundo_nombre": "Grace"
+    },
+    "rango":"en ascenso",
+    "poder": 71,
+    "descripcion": "Edicion campeona femenil de TNA",
+    "precio": 5,
+    "imagen": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/en-ascenso/jordynne_grace.png"
+}
