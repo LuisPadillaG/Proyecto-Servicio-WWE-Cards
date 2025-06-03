@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bases-pagina.css">
+    <title>WWE SuperCard</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="tutorial.html"><img src="/recursos/img/WweSuperCard_logo.png" alt=""></a>
+            </div>
+            <div class="resto-delnav">
+                <button id="mute-btn">
+                    <img id="mute-icon" src="/recursos/icons/volume_on_white.png" alt="Mute" />
+                </button>
+                <a href="modovs.html">Modo Vs</a>
+                <a href="coleccion.html">Coleccion</a>
+                <a href="tienda.html">Tienda</a>
+                <div class="cuenta" id="cuenta">
+                    <div class="perfil-boton" id="perfil-boton">
+                        <img src="/recursos/img/imagen-generica.jpg" alt="Imagen de perfil" class="imagen_del_usuario">
+                        <h4 class="nombre_del_usuario"></h4>
+                    </div>
+                    <div class="desplegable" id="desplegable">
+                        <a href="perfil.html">Ver perfil</a>
+                        <!--AQUI DEBO DE CAMBIAR LA INFO DEL DINERO AQUI DEBO DE CAMBIAR LA INFO DEL DINERO AQUI DEBO CAMBIAR LA INFO DEL DINERO-->
+                        <h5 class="dinero-actual">Dinero: <span class="tu_dinero_actual_actualizar">50C</span></h5>
+                        <a href="tutorial.html">Tutorial</a>
+                        <a href="/index.html">Cerrar Sesión</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section id="tuto">
+        <div id="tutoFondo"></div>
+        <div class="persona-hablando">
+            <h2>BIENVENIDO</h2>
+            <img src="/recursos/img/john cena.png" alt="" id="CenaHablando">
+            <img src="/recursos/img/tienda_preview2.png" alt="" id="PreviewTienda">
+            <img src="/recursos/img/coleccion_preview2.png" alt="" id="PreviewColeccion">
+            <img src="/recursos/img/vs-preview2.png" alt="" id="PreviewVs">
+            
+        </div>
+        <div  class="descripcion">
+            <p class="txt_descripcion">¡The Champ Is Here! <br>
+                Bienvenido a WWE SUPERCARD. Dónde podrás abrir sobres y coleccionar cartas de tus superestrellas favoritas, hazte con las +60 cartas disponibles.
+                Puedes conseguir monedas vendiendo tus cartas o jugando en el MODO VS.
+                ¿Te parece si comenzamos?
+            </p>
+            <div class="container-elegir">
+                <div class="opcion modo-vs">
+                    <a href="modovs.html">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>Modo Vs</h2>
+                    </a>
+                </div>
+                <div class="opcion coleccion">
+                    <a href="coleccion.html">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>Coleccion</h2>
+                    </a>
+                </div>
+                <div class="opcion tienda">
+                    <a href="tienda.html">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>Tienda</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div id="TarjetaCancion">
+            <div class="ImgTarjetaCancion"> </div>
+            <div class="InfoTarjetaCancion">
+                <h4 class="InfoTarjetaCancionTitle">My Time Is Now now </h4>
+                <h5 class="InfoTarjetaCancionArtist">John Cena</h5>
+            </div>
+        </div>
+        <audio id="musica-fondo" autoplay loop></audio>
+    </section>
+</body>
+<script src="/js/tutorial.js"></script>
+<script src="/js/CA-tutorial.js"></script>
+</html>

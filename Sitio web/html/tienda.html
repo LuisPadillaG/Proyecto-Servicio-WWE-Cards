@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/bases-pagina.css">
+    <link rel="stylesheet" href="/css/tienda.css">
+    <title>WWE SuperCard</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="tutorial.html"><img src="/recursos/img/WweSuperCard_logo.png" alt=""></a>
+            </div>
+            <div class="resto-delnav">
+                <button id="mute-btn">
+                    <img id="mute-icon" src="/recursos/icons/volume_on_white.png" alt="Mute" />
+                </button>
+                <a href="modovs.html">Modo Vs</a>
+                <a href="coleccion.html">Coleccion</a>
+                <a href="tienda.html">Tienda</a>
+                <div class="cuenta" id="cuenta">
+                    <div class="perfil-boton" id="perfil-boton">
+                        <img src="/recursos/img/imagen-generica.jpg" alt="Imagen de perfil" class="imagen_del_usuario">
+                        <h4 class="nombre_del_usuario"></h4>
+                    </div>
+                    <div class="desplegable" id="desplegable">
+                        <a href="perfil.html">Ver perfil</a>
+                        <!--AQUI DEBO DE CAMBIAR LA INFO DEL DINERO AQUI DEBO DE CAMBIAR LA INFO DEL DINERO AQUI DEBO CAMBIAR LA INFO DEL DINERO-->
+                        <h5 class="dinero-actual">Dinero: <span class="tu_dinero_actual_actualizar">50C</span></h5>
+                        <a href="tutorial.html">Tutorial</a>
+                        <a href="/index.html">Cerrar Sesión</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <!--<video autoplay loop muted playsinline id="video-fondo">
+            <source src="/recursos/videos/video_tienda.mp4" type="video/mp4">
+            Tu navegador no soporta el video de fondo.
+        </video>-->
+        <h2 class="tituloTienda">WWE TIENDA</h2>
+        <h4 class="tuDinero">Tienes <span class="Tu-dinero-actual-actualizar">50</span> monedas</h4>
+        <div class="losdosSobres">
+            <div class="casillaSobreCompleta">
+                <h2>ESTRELLAS EN ASCENSO</h2>
+                <div class="sobre ComprarSobreEnAscenso">
+                    <div class="tapa-del-sobre">
+                        <div class="color-del-sobre gris"></div>
+                    </div>
+                    <div class="portada-del-sobre">
+                        <img src="/recursos/img/ESTRELLAS-EN-ASCENSO.png" alt="">
+                    </div>
+                    <div class="base-del-sobre">
+                        <div class="color-del-sobre gris"></div>
+                    </div>
+                </div>
+                <div class="opcion comprar-sobre">
+                    <a href="abrir-sobre-ascenso.html" class="ComprarSobreEnAscenso">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>10C</h2>
+                    </a>
+                </div>
+                <div class="descripcion-del-sobre">
+                    <p>Contiene 3 luchadores emergentes y 1 estrella de media cartelera. Sobre recomendado para vender cartas.</p>
+                </div>
+            </div>
+
+            <div class="casillaSobreCompleta">
+                <h2>SOBRE DE TEMPORADA</h2>
+                <div class="sobre ComprarSobreBasico">
+                    <div class="tapa-del-sobre">
+                        <div class="color-del-sobre rojo"></div>
+                    </div>
+                    <div class="portada-del-sobre">
+                        <img src="/recursos/img/sobre-normal.png" alt="">
+                    </div>
+                    <div class="base-del-sobre">
+                        <div class="color-del-sobre rojo"></div>
+                    </div>
+                </div>
+                <div class="opcion comprar-sobre">
+                    <a href="abrir-sobre-basico.html" class="ComprarSobreBasico">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>15C</h2>
+                    </a>
+                </div>
+                <div class="descripcion-del-sobre">
+                    <p>Contiene 1 luchador emergentes, 2 estrellas de media cartelera y 1 superestrella. Sobre de temporada.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="losdosSobres">
+            <div class="casillaSobreCompleta">
+                <h2>SOBRE SUPERESTRELLA</h2>
+                <div class="sobre ComprarSobreSuperestrella">
+                    <div class="tapa-del-sobre">
+                        <div class="color-del-sobre dorado"></div>
+                    </div>
+                    <div class="portada-del-sobre">
+                        <img src="/recursos/img/sobre-superestrella.png" alt="">
+                    </div>
+                    <div class="base-del-sobre">
+                        <div class="color-del-sobre dorado"></div>
+                    </div>
+                </div>
+                <div class="opcion comprar-sobre">
+                    <a href="abrir-sobre-superestrella.html" class="ComprarSobreSuperestrella">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>35C</h2>
+                    </a>
+                </div>
+                <div class="descripcion-del-sobre">
+                    <p>Contiene 1 estrella emergentes, 1 estrellas de media cartelera, 1 superestrella. Además 1 superestrella con probabilidad de ser leyenda.</p>
+                </div>
+            </div>
+
+            <div class="casillaSobreCompleta">
+                <h2>SOBRE DE LEYENDAS</h2>
+                <div class="sobre ComprarSobreLeyenda">
+                    <div class="tapa-del-sobre">
+                        <div class="color-del-sobre azul"></div>
+                    </div>
+                    <div class="portada-del-sobre">
+                        <img src="/recursos/img/sobre-leyenda-v3.png" alt="">
+                    </div>
+                    <div class="base-del-sobre">
+                        <div class="color-del-sobre azul"></div>
+                    </div>
+                </div>
+                <div class="opcion comprar-sobre">
+                    <a href="abrir-sobre-leyenda.html" class="ComprarSobreLeyenda">
+                        <img src="/recursos/icons/eleccion.png" alt=""> 
+                        <h2>55C</h2>
+                    </a>
+                </div>
+                <div class="descripcion-del-sobre">
+                    <p>Contiene 1 luchador de media cartelera, 1 superestrella, 1 leyenda. Además 1 superestrella con gran probabilidad de ser leyenda.</p>
+                </div>
+            </div>
+        </div>
+        <div class="fondo_mensaje_monedas">
+            <div class="mensaje_monedas">
+                <h4>Te faltan monedas para concretar la compra del sobre</h4>
+                <button onclick="Cerrar_mensaje_Monedas()">X</button>
+            </div>
+        </div>
+    </main>
+    <div id="TarjetaCancion">
+            <div class="ImgTarjetaCancion"> </div>
+            <div class="InfoTarjetaCancion">
+                <h4 class="InfoTarjetaCancionTitle">My Time Is Now now </h4>
+                <h5 class="InfoTarjetaCancionArtist">John Cena</h5>
+            </div>
+        </div>
+    <audio id="musica-fondo" autoplay loop></audio>
+</body>
+<script src="/js/tutorial.js"></script>
+<script src="/js/CA-tienda.js"></script>
+</html>
