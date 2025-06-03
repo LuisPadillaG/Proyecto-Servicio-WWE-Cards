@@ -1,0 +1,7 @@
+{
+    "id": 5,
+    "nombre": "Kingdom",
+    "arista_principal":"DownStait",
+    "enlace_cancion": "https://github.com/LuisPadillaG/wwe-imagenes/raw/refs/heads/main/canciones_wwe/Kingdom.mp3",
+    "portada": "https://raw.githubusercontent.com/LuisPadillaG/wwe-imagenes/refs/heads/main/canciones_wwe/codycool.jpg"
+}

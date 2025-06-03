@@ -1,0 +1,7 @@
+{
+    "id": 10,
+    "nombre": "The Game",
+    "arista_principal":"MotorHead",
+    "enlace_cancion": "https://github.com/LuisPadillaG/wwe-imagenes/raw/refs/heads/main/canciones_wwe/The_Game.mp3",
+    "portada": "https://www.filmmusicsite.com/es/images/covers/large/85380.jpg"
+}
